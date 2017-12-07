@@ -1,5 +1,5 @@
 {
-  "name": "OnChangeInputbox",
+  "name": "OnChangeInputboxBeforeAfterJS",
   "version": "2.3.2",
   "description": "This inputbox widget supports the firing of a microflow for every keystroke. This is great for example with live previews.",
   "private": true,
@@ -10,11 +10,11 @@
     "gulp-if": "^2.0.1",
     "gulp-intercept": "^0.1.0",
     "gulp-json-transform": "^0.4.2",
+    "gulp-jsvalidate": "^3.0.0",
     "gulp-newer": "^1.3.0",
     "gulp-plumber": "^1.1.0",
     "gulp-util": "^3.0.7",
     "gulp-zip": "^3.2.0",
-    "gulp-jsvalidate": "^3.0.0",
     "widgetbuilder-gulp-helper": "https://github.com/JelteMX/widgetbuilder-gulp-helper/archive/1.0.1.tar.gz",
     "yargs": "^6.0.0"
   },
